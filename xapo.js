@@ -1,6 +1,4 @@
 var s=[
-"http://http://kiixa.com/?r=mounir.Ana.ma@gmail.com",
-"https://gNq19tc/Nq19tc",
 "https://goo.gl/GxBLxD",
 "https://goo.gl/3F1Hyd",
 "https://goo.gl/XaIejV",

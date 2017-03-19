@@ -35,10 +35,6 @@ var s=[
 "http://eth-kran.pw/?r=0x4814Ae3aD419ef704A4896c89F5e8BfB977C114a",
 "http://ethereumfree.pw/?r=0x4814Ae3aD419ef704A4896c89F5e8BfB977C114a",
 "http://www.etherfaucet.net/?r=0x4814Ae3aD419ef704A4896c89F5e8BfB977C114a",
-"",
-"#",
-"#",
-
 
 ];
 var adr,i,x=0,c=s.length;

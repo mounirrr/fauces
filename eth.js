@@ -1,4 +1,5 @@
 var s=[
+
 "https://www.forumcoin.win/ether/?r=0x4814Ae3aD419ef704A4896c89F5e8BfB977C114a",
 "http://ethereum-faucet.org/?r=0x4814Ae3aD419ef704A4896c89F5e8BfB977C114a",
 "http://ethereum.cryptocrawl.in/?r=0x4814Ae3aD419ef704A4896c89F5e8BfB977C114a",
@@ -35,7 +36,9 @@ var s=[
 "http://eth-kran.pw/?r=0x4814Ae3aD419ef704A4896c89F5e8BfB977C114a",
 "http://ethereumfree.pw/?r=0x4814Ae3aD419ef704A4896c89F5e8BfB977C114a",
 "http://www.etherfaucet.net/?r=0x4814Ae3aD419ef704A4896c89F5e8BfB977C114a",
+
 ];
+
 var adr,i,x=0,c=s.length;
 function address() {
 adr=prompt('Enter your bitcoin address:');
